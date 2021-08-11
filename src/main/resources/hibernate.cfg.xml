@@ -17,6 +17,7 @@
 
         <mapping class="ru.gb.pugacheva.lesson6hibernate.Product"/>
         <mapping class="ru.gb.pugacheva.lesson6hibernate.Customer"/>
+        <mapping class="ru.gb.pugacheva.lesson6hibernate.Order"/>
 
     </session-factory>
 </hibernate-configuration>
